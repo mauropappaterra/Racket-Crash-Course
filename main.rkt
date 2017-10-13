@@ -1,3 +1,7 @@
+;; Racket Crash Course
+;; main.rkt
+;; Created by Mauro José Pappaterra on 20 February 2017
+
 #lang racket ;; This line defines the language
 
 ;; This is a comment it won't be compiled
